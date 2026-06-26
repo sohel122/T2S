@@ -1,0 +1,6 @@
+{
+  "name": "Bangla TTS",
+  "description": "A modern Bangla Text-To-Speech (TTS) application with Camera OCR, file reading, voice customization, and favorites.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
